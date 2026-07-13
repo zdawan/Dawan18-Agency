@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<!-- saved from url=(0092)file:///D:/Stunning%20Porfolio/Porfolio/dd/HTML-Resume-master/HTML-Resume-master/resume.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+    <title>Dawan-Jimmy | Resume</title>
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Resume of Web Developer and Designer - Sharad Shinde.">
+    <link rel="shortcut icon" href="file:///D:/Stunning%20Porfolio/Porfolio/dd/HTML-Resume-master/HTML-Resume-master/logo-black2.png">
+    <link href="./Dawan-Jimmy _ Resume_files/css" rel="stylesheet" type="text/css">
+    <link href="./Dawan-Jimmy _ Resume_files/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="./Dawan-Jimmy _ Resume_files/font-awesome.css">
+    <link id="theme-style" rel="stylesheet" href="./Dawan-Jimmy _ Resume_files/styles.css">
+     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script> <!--[endif]---->
+</head>
+
+<body>
+    <div class="wrapper">
+        <div class="sidebar-wrapper">
+            <div class="profile-container"> <img class="profile-img" src="file:///D:/Stunning%20Porfolio/Porfolio/dd/HTML-Resume-master/HTML-Resume-master/jlora_create_a_Pixar_character_with_this_picture_a_20_year_old__bfff320e-7992-402e-ae7f-7b5939b157d2-removebg-preview.png" alt="DharshanKumar">
+                <h1 class="name">Dharshan<br>Kumar-J</h1>
+                <h3 class="tagline">Web Developer</h3> </div>
+            <!--//profile-container-->
+            <div class="contact-container container-block">
+                <ul class="list-unstyled contact-list">
+                    <li class="email"><i class="fa fa-envelope"></i><a href="file:///D:/Stunning%20Porfolio/Porfolio/dd/HTML-Resume-master/HTML-Resume-master/jnr1006262@gmail.com">jnr1006262@gmail.com</a></li>
+                    <li class="phone"><i class="fa fa-phone"></i><a href="tel:91+8248744641">91+8248744641</a></li>
+                    <li class="website"><i class="fa fa-globe"></i><a href="file:///D:/Stunning%20Porfolio/Porfolio/dd/HTML-Resume-master/HTML-Resume-master/resume.html" target="_blank">18.in</a></li>
+                    <li class="linkedin"><i class="fa fa-linkedin"></i><a href="https://www.linkedin.com/in/dharshan-kumar-j-897a41252/" target="_blank">in/dharshankumar</a></li>
+                    <li class="instagram"><i class="fa fa-instagram"></i><a href="https://www.instagram.com/dharshan66/" target="_blank">dharshan66</a></li>
+                    <li class="twitter"><i class="fa fa-twitter"></i><a href="https://twitter.com/Dharsha16043720" target="_blank">Jimmy-Dawan</a></li>
+                    <li class="youtube"><i class="fa fa-youtube"></i><a href="https://www.youtube.com/@gamingwithdawan" target="_blank">Z Dawan</a></li>
+                </ul>
+            </div>
+            <!--//contact-container-->
+            <div class="education-container container-block">
+                <h2 class="container-block-title">Education</h2>
+                <div class="item">
+                    <h4 class="degree">Bachelor of Information Technology</h4>
+                    <h5 class="meta">University of Anna</h5>
+                    <div class="time">2022 - 2026</div>
+                </div>
+                <!--//item-->
+                <div class="item">
+                    <h4 class="degree">Contarct</h4>
+                    <h5 class="meta">Volvo-Commercial(3D Animator)</h5>
+                    <div class="time">2023</div>
+                </div>
+                <!--//item-->
+            </div>
+            <!--//education-container-->
+            <div class="languages-container container-block">
+                <h2 class="container-block-title">Languages</h2>
+                <ul class="list-unstyled interests-list">
+                    <li>Tamil <span class="lang-desc">(Native)</span></li>
+                    <li>English <span class="lang-desc">(Professional)</span></li>
+                    <li>Hindi <span class="lang-desc">(Intermediate)</span></li>
+                </ul>
+            </div>
+        </div>
+        <!--//sidebar-wrapper-->
+        <div class="main-wrapper">
+            <section class="section summary-section">
+                <h2 class="section-title"><i class="fa fa-user"></i>Career Profile</h2>
+                <div class="summary">
+                    <p>To secure a mid level position in IT world that would entrust me with an opportunity for using my expertise in web development and application design.</p>
+                </div>
+                <!--//summary-->
+            </section>
+            <!--//section-->
+            <section class="skills-section section">
+                <h2 class="section-title"><i class="fa fa-rocket"></i>Skills &amp; Proficiency</h2>
+                <div class="skillset">
+                    <div class="item">
+                        <h3 class="level-title">HTML5 &amp; CSS3</h3>
+                        <div class="level-bar">
+                            <div class="level-bar-inner" data-level="85%" style="width: 85%;"> </div>
+                        </div>
+                        <!--//level-bar-->
+                    </div>
+                    <!--//item-->
+                    <div class="item">
+                        <h3 class="level-title">C+</h3>
+                        <div class="level-bar">
+                            <div class="level-bar-inner" data-level="70%" style="width: 70%;"> </div>
+                        </div>
+                        <!--//level-bar-->
+                    </div>
+                    <!--//item-->
+                    <div class="item">
+                        <h3 class="level-title">Framework &amp; jQuery</h3>
+                        <div class="level-bar">
+                            <div class="level-bar-inner" data-level="68%" style="width: 68%;"> </div>
+                        </div>
+                        <!--//level-bar-->
+                    </div>
+                    <!--//item-->
+                    <div class="item">
+                        <h3 class="level-title">Python &amp; MySQL</h3>
+                        <div class="level-bar">
+                            <div class="level-bar-inner" data-level="76%" style="width: 76%;"> </div>
+                        </div>
+                        <!--//level-bar-->
+                    </div>
+                    <!--//item-->
+                    <div class="item">
+                        <h3 class="level-title">Javascript</h3>
+                        <div class="level-bar">
+                            <div class="level-bar-inner" data-level="10%" style="width: 10%;"> </div>
+                        </div>
+                        <!--//level-bar-->
+                    </div>
+                    <!--//item-->
+                </div>
+            </section>
+            <!--//skills-section-->
+            <section class="section experiences-section">
+                <h2 class="section-title"><i class="fa fa-wordpress"></i>Portfolio</h2>
+                <div class="item">
+                    <div class="meta">
+                        <div class="upper-row">
+                            <h3 class="job-title">My Webpage</h3>
+                            <div class="time">©2022</div>
+                        </div>
+                        <!--//upper-row-->
+                        <div class="company"> <a href="file:///D:/Stunning%20Porfolio/Porfolio/dd/HTML-Resume-master/HTML-Resume-master/resume.html">Dawan.in</a></div>
+                    </div>
+                    <!--//meta-->
+                    <div class="details">
+                        <p>Take a look at my Portfolio to explore more and 
+                            <br>Rig my secrets Wispered in website </p>
+                    </div>
+                    <!--//details-->
+                </div>
+                <!--//item-->
+            </section>
+            <!--//section-->
+            <section class="section projects-section">
+                <h2 class="section-title"><i class="fa fa-archive"></i>Projects</h2>
+                <div class="intro">
+                    <p>I made some open source projects. Here are my some best projects.</p>
+                </div>
+                <!--//intro-->
+                <div class="item"> <span class="project-title"><a href="https://github.com/zdawan/personal-page" target="_blank">ZERO WORK </a></span> - <span class="project-tagline">A elite group of Developers, Designers and Managers Joined to make this World Beautiful.</span></div>
+                <!--//item-->
+                <div class="item"> <span class="project-title"><a href="https://github.com/shindesharad71/Club-Manager" target="_blank">ICE BREWS</a></span> - <span class="project-tagline">A Social Club/Group Organizer with Blogging Platform Made Using HTML, CSS, BOOTSTRAP.</span> </div>
+                <!--//item-->
+                <div class="item"> <span class="project-title"><a href="https://github.com/shindesharad71/DigiWord" target="_blank">PORTFOLIO</a></span> - <span class="project-tagline">A Single Author Blogging Platform Created with HTML,CSS&amp; JAVASCRIPT.</span> </div>
+                <!--//item-->
+                <div class="item"> <span class="project-title"><a href="https://github.com/shindesharad71/account-registration-verification-in-php" target="_blank">3D WEBPAGE</a></span> - <span class="project-tagline">A simple Webpage were You can get my 3d collections at <b>Free of Costs.</b></span> </div>
+                <!--//item-->
+            </section>
+            <!--//section-->
+        </div>
+        <!--//main-body-->
+    </div>
+    <footer class="footer">
+        <div class="text-center">
+            <small class="copyright"><a href="http://sharadshinde.in/" target="_blank">Dawan-Jimmy</a> 2023</small>
+        </div>
+    </footer>
+    <!-- Javascript -->
+    <script src="./Dawan-Jimmy _ Resume_files/jquery.min.js.download"></script>
+    <script src="./Dawan-Jimmy _ Resume_files/bootstrap.min.js.download"></script>
+    <script type="text/javascript" src="./Dawan-Jimmy _ Resume_files/main.js.download"></script>
+
+
+
+</body></html>
